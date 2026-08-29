@@ -1,0 +1,5 @@
+Kotlin Toolchain version 0.12.0 (2039c53, 2026-08-24)
+running on Windows 11 10.0 jvm arch amd64
+
+00:18.669 INFO  :bootcamp4-6:compileJvm   Slf4jExtensionsKt         Compiling module 'bootcamp4-6' for platform 'jvm'...
+00:20.493 INFO  :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Non-incremental compilation will be performed: Unknown inputs changes

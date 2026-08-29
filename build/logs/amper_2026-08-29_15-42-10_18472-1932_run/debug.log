@@ -1,0 +1,71 @@
+Kotlin Toolchain version 0.12.0 (2039c53, 2026-08-24)
+running on Windows 11 10.0 jvm arch amd64
+
+00:01.728 DEBUG :bootcamp4-6:resolveDependenciesJvm ResolveExternalDependenciesTask$Companion resolve dependencies bootcamp4-6 -- main -- org.jetbrains.kotlin:kotlin-stdlib:2.4.10 -- resolvePlatform=jvm nativeTarget=null wasmTarget=null
+00:01.765 DEBUG :bootcamp4-6:resolveDependenciesJvm IncrementalCache          [inc] 'bootcamp4-6:jvm:main' is up-to-date according to state file at 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\incremental.state\bootcamp4-6_jvm_main-5d6a27536d'
+00:01.787 DEBUG :bootcamp4-6:resolveDependenciesJvm ResolveExternalDependenciesTask$Companion resolve dependencies bootcamp4-6 -- main -- org.jetbrains.kotlin:kotlin-stdlib:2.4.10 -- resolvePlatform=JVM nativeTarget=null
+wasmTarget=null
+https://repo1.maven.org/maven2 https://maven.google.com resolved to:
+  .m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.10\kotlin-stdlib-2.4.10.jar
+  .m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar
+00:01.789 DEBUG :bootcamp4-6:compileJvm   JvmCompileTask            compile bootcamp4-6 -- main
+00:01.801 DEBUG :bootcamp4-6:compileJvm   JdkProvider               JAVA_HOME is not set (or empty). The Kotlin Toolchain will provision a JDK instead.
+00:01.864 DEBUG :bootcamp4-6:compileJvm   IncrementalCache          [inc] 'jdk-provisioning_{"majorVersion":25}' is up-to-date according to state file at 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\incremental.state\jdk-provisioning___majorVersion__25_-a1d432fb5a'
+00:01.883 DEBUG :bootcamp4-6:compileJvm   StateKt                   [inc] state file is missing or empty at 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\incremental.state\_bootcamp4-6_compileJvm-6a4211e99f' -> cache miss
+00:01.883 DEBUG :bootcamp4-6:compileJvm   IncrementalCache          [inc] building ':bootcamp4-6:compileJvm'
+00:01.887 INFO  :bootcamp4-6:compileJvm   Slf4jExtensionsKt         Compiling module 'bootcamp4-6' for platform 'jvm'...
+00:01.891 DEBUG :bootcamp4-6:compileJvm   JvmCompileTask            Compiling Kotlin/JVM sources for module 'bootcamp4-6'...
+00:01.895 DEBUG :bootcamp4-6:compileJvm   IncrementalCache          [inc] 'resolve-org.jetbrains.kotlin-kotlin-build-tools-impl-2.4.10' is up-to-date according to state file at 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\incremental.state\resolve-org.jetbrains.kotlin-kotlin-build-tools-im-30d8454b0c'
+00:01.941 DEBUG :bootcamp4-6:compileJvm   IncrementalCache          [inc] 'kotlin-jvm-classpath-snapshotting-kotlin-stdlib-2.4.10.jar-99636b03adae65bace6b95766b9c465d73e5c8d9daa8de3439a0139bcaa0c0de' is up-to-date according to state file at 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\incremental.state\kotlin-jvm-classpath-snapshotting-kotlin-stdlib-2.-9a2ffcadc2'
+00:01.941 DEBUG :bootcamp4-6:compileJvm   IncrementalCache          [inc] 'kotlin-jvm-classpath-snapshotting-annotations-13.0.jar-a0b61a7bc74b54a824bbf3da3dbc7279d61c00157ebda1843863c6ff533c2ffe' is up-to-date according to state file at 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\incremental.state\kotlin-jvm-classpath-snapshotting-annotations-13.0-3e4c43942a'
+00:02.442 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Compiling using the in-process strategy
+00:02.510 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Kotlin compiler args: -classpath C:\Users\adell\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.10\kotlin-stdlib-2.4.10.jar;C:\Users\adell\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar -d C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output -jdk-home C:\Users\adell\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.7d3ac0.d\jdk-25.0.4.1+1 -Xjdk-release=25 -module-name bootcamp4-6 -no-stdlib -Xenable-incremental-compilation
+00:02.513 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Source changes: ToBeComputed
+00:02.514 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Configuration inputs: ConfigurationInputs(icConfigurationInputsSnapshot={rootProjectDir=C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6, moduleBuildDir=C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build, outputDirs=null, useFirRunner=false, unsafeIncrementalCompilationForMultiplatform=false, monotonousIncrementalCompileSetExpansion=true, usePreciseJavaTracking=false, kotlinSourceFileExtensions=kt,kts, kotlinVersion=2.4.10}, compilerArgumentsInputsSnapshot=[-Xjdk-release=25, -classpath, -jdk-home, -module-name, -no-stdlib, C:\Users\adell\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.10\kotlin-stdlib-2.4.10.jar;C:\Users\adell\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar, C:\Users\adell\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.7d3ac0.d\jdk-25.0.4.1+1, bootcamp4-6])
+00:02.537 INFO  :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Non-incremental compilation will be performed: Unknown inputs changes
+00:02.538 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Cleaning 2 output directories
+00:05.510 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     [KOTLIN] compile iteration: src\aquarium\aquarium.kt, src\main.kt, src\unidad4\quiz1.kt, src\unidad4\simpleSpice.kt, src\World.kt
+00:05.510 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Compile iteration:
+00:05.510 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt       src\aquarium\aquarium.kt
+00:05.511 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt       src\main.kt
+00:05.511 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt       src\unidad4\quiz1.kt
+00:05.511 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt       src\unidad4\simpleSpice.kt
+00:05.511 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt       src\World.kt
+00:05.512 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Using Kotlin home directory <no_path>
+00:05.512 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Exception on loading scripting plugin: java.lang.ClassNotFoundException: org.jetbrains.kotlin.scripting.compiler.plugin.ScriptingCompilerConfigurationComponentRegistrar
+00:05.512 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Scripting plugin will not be loaded: not all required jars are present in the classpath (missing files: [.\kotlin-scripting-compiler.jar, .\kotlin-scripting-compiler-impl.jar, .\kotlin-scripting-common.jar, .\kotlin-scripting-jvm.jar])
+00:05.512 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Configuring the compilation environment
+00:05.512 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Using JDK home directory C:\Users\adell\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.7d3ac0.d\jdk-25.0.4.1+1
+00:05.512 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Loading modules: [java.se, jdk.accessibility, jdk.attach, jdk.compiler, jdk.dynalink, jdk.httpserver, jdk.incubator.vector, jdk.jartool, jdk.javadoc, jdk.jconsole, jdk.jdi, jdk.jfr, jdk.jshell, jdk.jsobject, jdk.management, jdk.management.jfr, jdk.net, jdk.nio.mapmode, jdk.sctp, jdk.security.auth, jdk.security.jgss, jdk.unsupported, jdk.unsupported.desktop, jdk.xml.dom, java.base, java.compiler, java.datatransfer, java.desktop, java.xml, java.instrument, java.logging, java.management, java.management.rmi, java.rmi, java.naming, java.net.http, java.prefs, java.scripting, java.security.jgss, java.security.sasl, java.sql, java.transaction.xa, java.sql.rowset, java.xml.crypto, jdk.internal.jvmstat, jdk.internal.opt, jdk.zipfs, jdk.internal.md, jdk.management.agent, jdk.jdwp.agent, jdk.internal.ed, jdk.internal.le]
+00:05.512 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\World.class
+Sources:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\World.kt
+00:05.513 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\aquarium\Aquarium.class
+Sources:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\aquarium\aquarium.kt
+00:05.513 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\aquarium\MainKt.class
+Sources:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\main.kt
+00:05.513 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\unidad4\simpleSpice.class
+Sources:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\unidad4\simpleSpice.kt
+00:05.513 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     Output:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\META-INF\bootcamp4-6.kotlin_module
+Sources:
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\World.kt
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\unidad4\quiz1.kt
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\main.kt
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\unidad4\simpleSpice.kt
+C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\src\aquarium\aquarium.kt
+00:05.785 DEBUG :bootcamp4-6:compileJvm   KotlinBuildToolsApiKt     [ClasspathSnapshot] Shrunk current classpath snapshot after compilation (shrink mode = NonIncremental), retained 1 / 857 classes
+00:05.933 INFO  :bootcamp4-6:compileJvm   MessagesKt                Compilation successful for 'bootcamp4-6' [jvm]
+00:05.940 DEBUG :bootcamp4-6:compileJvm   IncrementalCache          [inc] ':bootcamp4-6:compileJvm' changes: 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\aquarium\Aquarium.class' CREATED, 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\aquarium\MainKt.class' CREATED, 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\META-INF\bootcamp4-6.kotlin_module' CREATED, 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\unidad4\simpleSpice.class' CREATED, 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\artifacts\CompiledJvmArtifact\bootcamp4-6jvm\kotlin-output\World.class' CREATED
+00:05.948 DEBUG :bootcamp4-6:jarJvm       StateKt                   [inc] state file is missing or empty at 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\incremental.state\_bootcamp4-6_jarJvm-b46feb3d3c' -> cache miss
+00:05.948 DEBUG :bootcamp4-6:jarJvm       IncrementalCache          [inc] building ':bootcamp4-6:jarJvm'
+00:05.973 DEBUG :bootcamp4-6:jarJvm       IncrementalCache          [inc] ':bootcamp4-6:jarJvm' changes: 'C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\tasks\_bootcamp4-6_jarJvm\bootcamp4-6-jvm.jar' CREATED
+00:05.976 DEBUG :bootcamp4-6:runJvm       JdkProvider               JAVA_HOME is not set (or empty). The Kotlin Toolchain will provision a JDK instead.
+00:05.980 DEBUG :bootcamp4-6:runJvm       ProcessRunner             [cmd] C:\Users\adell\AppData\Local\JetBrains\Kotlin\extract.cache\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.7d3ac0.d\jdk-25.0.4.1+1\bin\java.exe @C:\Users\adell\OneDrive\Documentos\GitHub\bootcamp4-6\build\temp\java-args-2779157835282381602.txt

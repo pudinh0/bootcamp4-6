@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.10\\kotlin-stdlib-2.4.10.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.10\\kotlin-stdlib-2.4.10.jar": "size 1841933 mtime 2026-08-29T02:05:12.7985514Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-2.4.10.jar-99636b03adae65bace6b95766b9c465d73e5c8d9daa8de3439a0139bcaa0c0de.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-2.4.10.jar-99636b03adae65bace6b95766b9c465d73e5c8d9daa8de3439a0139bcaa0c0de.abi": "size 271262 mtime 2026-08-29T21:42:06.8807532Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

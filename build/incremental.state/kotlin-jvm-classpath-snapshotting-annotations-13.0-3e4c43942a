@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.10"
+    },
+    "inputFiles": [
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-08-29T07:06:49.5507618Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\ic-cache\\classpath-snapshots\\annotations-13.0.jar-a0b61a7bc74b54a824bbf3da3dbc7279d61c00157ebda1843863c6ff533c2ffe.abi"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\ic-cache\\classpath-snapshots\\annotations-13.0.jar-a0b61a7bc74b54a824bbf3da3dbc7279d61c00157ebda1843863c6ff533c2ffe.abi": "size 10404 mtime 2026-08-29T21:42:06.4042904Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

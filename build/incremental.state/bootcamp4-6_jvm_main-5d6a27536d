@@ -1,0 +1,27 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "dependencies": "org.jetbrains.kotlin:kotlin-stdlib:2.4.10|org.jetbrains.kotlin:kotlin-stdlib:2.4.10",
+        "excludedDependencies": "",
+        "repositories": "https://repo1.maven.org/maven2|https://maven.google.com",
+        "resolveNativeTarget": "",
+        "resolvePlatform": "jvm",
+        "resolveWasmTarget": "",
+        "userCacheRoot": "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin"
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {
+        "serializedOutput": "{\"compileClasspath\":[\"C:\\\\Users\\\\adell\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib\\\\2.4.10\\\\kotlin-stdlib-2.4.10.jar\",\"C:\\\\Users\\\\adell\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\annotations\\\\13.0\\\\annotations-13.0.jar\"],\"runtimeClasspath\":[\"C:\\\\Users\\\\adell\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib\\\\2.4.10\\\\kotlin-stdlib-2.4.10.jar\",\"C:\\\\Users\\\\adell\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\annotations\\\\13.0\\\\annotations-13.0.jar\"],\"coordinateOverridesForPublishing\":{}}"
+    },
+    "outputFiles": [
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar",
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.10\\kotlin-stdlib-2.4.10.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-08-29T07:06:49.5507618Z",
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.10\\kotlin-stdlib-2.4.10.jar": "size 1841933 mtime 2026-08-29T02:05:12.7985514Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

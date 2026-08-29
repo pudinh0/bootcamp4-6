@@ -1,0 +1,42 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "java.annotation.processor.generated.dir": "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\generated\\bootcamp4-6\\main\\src\\apt\\java",
+        "jdk.home": "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\extract.cache\\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.7d3ac0.d\\jdk-25.0.4.1+1",
+        "jdk.version": "25.0.4.1",
+        "target.platforms": "JVM",
+        "task.output.root": "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm",
+        "user.settings": "{\"kotlin\":{\"compilerVersion\":\"2.4.10\",\"languageVersion\":null,\"apiVersion\":null,\"compileIncrementally\":true,\"allWarningsAsErrors\":false,\"suppressWarnings\":false,\"debug\":null,\"optimization\":null,\"verbose\":false,\"progressiveMode\":false,\"linkerOptions\":[],\"languageFeatures\":[],\"optIns\":[],\"storeJavaParameterNames\":false,\"freeCompilerArgs\":[],\"compilerPlugins\":[]},\"jvmRelease\":25,\"java\":{\"freeCompilerArgs\":[],\"annotationProcessorOptions\":{},\"compileIncrementally\":false}}"
+    },
+    "inputFiles": [
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\src",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\resources",
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.10\\kotlin-stdlib-2.4.10.jar",
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-08-29T07:06:49.5507618Z",
+        "C:\\Users\\adell\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.10\\kotlin-stdlib-2.4.10.jar": "size 1841933 mtime 2026-08-29T02:05:12.7985514Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\resources": "MISSING",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\src\\World.kt": "size 70 mtime 2026-08-29T21:20:49.494556Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\src\\aquarium\\aquarium.kt": "size 242 mtime 2026-08-29T21:31:07.45Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\src\\main.kt": "size 470 mtime 2026-08-29T21:41:40.599Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\src\\unidad4\\quiz1.kt": "size 15 mtime 2026-08-29T21:37:44.691Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\src\\unidad4\\simpleSpice.kt": "size 159 mtime 2026-08-29T21:40:18.755Z"
+    },
+    "outputValues": {
+        "jvmCompilerBuildProblems": "[]"
+    },
+    "outputFiles": [
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\META-INF\\bootcamp4-6.kotlin_module": "size 44 mtime 2026-08-29T21:42:14.8431853Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\World.class": "size 748 mtime 2026-08-29T21:42:14.8401858Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\aquarium\\Aquarium.class": "size 1341 mtime 2026-08-29T21:42:14.8411845Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\aquarium\\MainKt.class": "size 1815 mtime 2026-08-29T21:42:14.8421845Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\unidad4\\simpleSpice.class": "size 1635 mtime 2026-08-29T21:42:14.8421845Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

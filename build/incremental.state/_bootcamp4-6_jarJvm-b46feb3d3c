@@ -1,0 +1,27 @@
+{
+    "codeVersion": "0.12.0",
+    "inputValues": {
+        "inputDirsDestPaths": "[.]",
+        "jarConfig": "{\"mainClassFqn\":\"aquarium.MainKt\"}",
+        "outputJarPath": "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\tasks\\_bootcamp4-6_jarJvm\\bootcamp4-6-jvm.jar"
+    },
+    "inputFiles": [
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\META-INF\\bootcamp4-6.kotlin_module": "size 44 mtime 2026-08-29T21:42:14.8431853Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\World.class": "size 748 mtime 2026-08-29T21:42:14.8401858Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\aquarium\\Aquarium.class": "size 1341 mtime 2026-08-29T21:42:14.8411845Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\aquarium\\MainKt.class": "size 1815 mtime 2026-08-29T21:42:14.8421845Z",
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\artifacts\\CompiledJvmArtifact\\bootcamp4-6jvm\\kotlin-output\\unidad4\\simpleSpice.class": "size 1635 mtime 2026-08-29T21:42:14.8421845Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\tasks\\_bootcamp4-6_jarJvm\\bootcamp4-6-jvm.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\adell\\OneDrive\\Documentos\\GitHub\\bootcamp4-6\\build\\tasks\\_bootcamp4-6_jarJvm\\bootcamp4-6-jvm.jar": "size 4411 mtime 2026-08-29T21:42:15.3611413Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
