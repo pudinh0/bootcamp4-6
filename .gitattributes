@@ -1,3 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
 # Ocultar scripts ejecutables de las estadísticas de lenguajes
 kotlin linguist-vendored
 kotlin.bat linguist-vendored
