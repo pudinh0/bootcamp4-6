@@ -3,3 +3,11 @@
 .idea/misc.xml
 *.xml
 .idea/misc.xml
+/build/artifacts/CompiledJvmArtifact/bootcamp4-6jvm/kotlin-ic-data/caches-jvm/compilerPluginFiles
+/build/artifacts/CompiledJvmArtifact/bootcamp4-6jvm/kotlin-ic-data/caches-jvm/compilerPluginFiles
+/build/artifacts/CompiledJvmArtifact/bootcamp4-6jvm/kotlin-ic-data/caches-jvm
+/build/artifacts/CompiledJvmArtifact/bootcamp4-6jvm/kotlin-ic-data
+/build/artifacts/CompiledJvmArtifact/bootcamp4-6jvm
+/build/artifacts
+/build
+*.class
