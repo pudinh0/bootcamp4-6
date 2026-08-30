@@ -1,0 +1,7 @@
+# Ocultar scripts ejecutables de las estadísticas de lenguajes
+kotlin linguist-vendored
+kotlin.bat linguist-vendored
+gradlew linguist-vendored
+gradlew.bat linguist-vendored
+*.bat linguist-vendored
+*.sh linguist-vendored
