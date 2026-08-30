@@ -1,9 +1,12 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-# Ocultar scripts ejecutables de las estadísticas de lenguajes
-kotlin linguist-vendored
-kotlin.bat linguist-vendored
-gradlew linguist-vendored
-gradlew.bat linguist-vendored
-*.bat linguist-vendored
-*.sh linguist-vendored
+# Excluir archivos Batch, Shell y wrappers de las estadísticas
+*.bat linguist-detectable=false
+*.sh linguist-detectable=false
+*.cmd linguist-detectable=false
+kotlin linguist-detectable=false
+kotlin.bat linguist-detectable=false
+gradlew linguist-detectable=false
+gradlew.bat linguist-detectable=false
+
+# Excluir subcarpetas completas de scripts si las hubiera
+**/*.bat linguist-detectable=false
+**/*.sh linguist-detectable=false
